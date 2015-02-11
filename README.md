@@ -1,6 +1,6 @@
 ## Github2Trello
 
-Webhook reciever for adding info about commit to the relevant ticket.
+Webhook reciever for adding info about pushed commits to the relevant ticket.
 
 ## Config
 ```bash
